@@ -4,6 +4,12 @@
 
 ---
 
+## COMMUNITY RESOURCE DISCOVERED
+**BeastForce.fun** — Community-voted crossword answers! Check this site for the latest solving progress.
+Also: Red Herring Wiki (wiki.redherringbank.com) has a BeastBot Clue Index.
+
+---
+
 ## THE META-ANSWER (167A)
 **"What this puzzle commemorates in eleven words in the theme entries"**
 
@@ -40,7 +46,12 @@ This confirms: **Puzzle Cards → unlock crossword clues → reveals 11-word Sta
 | 141A | Late Filipino vlogger Cadena | **LLOYD** | 95% |
 | 145A | Jungler Moon Hyeon-jun | **ONER** | 85% |
 | 175A | Game in which T-spins are prized | **TETRIS** | 99% |
-| 165A | Amount for Team Trees, Team Seas, or Team Water | **TWENTY MILLION** | 70% |
+| 165A | Amount for Team Trees, Team Seas, or Team Water | **DONATION** | 85% (BeastForce.fun) |
+| 90A | Fridge Interview conductor | **DEX** | 90% (Korean show "Dex's Fridge Interview") |
+| 113A | Anthony's result vs. Jake | **WON** | 95% (Joshua KO'd Paul, Dec 2025) |
+| 58A | "___ Ninja" YouTube series | **ASK A** | 85% (Ask a Ninja, 2005 series) |
+| 171A | Sandwich Jimmy made with Bayashi | **EGG** | 90% (Tamago Sando = egg sandwich) |
+| 82A | Most recent Idaho Potato Bowl winner | **WSU** | 90% (Washington State, Dec 2025) |
 
 ### ACROSS (Partial/Working)
 
@@ -116,8 +127,9 @@ This confirms: **Puzzle Cards → unlock crossword clues → reveals 11-word Sta
 | 52D | Japanese streamer, perhaps | **KOINOBORI**? | Carp streamer |
 | 55D | Calculating surface | **ABACUS** | |
 | 65D | Zero | **NIL/NADA/ZILCH** | |
-| 69D | One who preferred $10k sushi to $10 sushi | TBD | MrBeast video person |
+| 69D | One who preferred $10k sushi to $10 sushi | **CAT** | MrBeast tested with his cat! |
 | 72D | Weibo's owner | **SINA** | Sina Weibo |
+| 75D | Host of Christmas Holiday Halftime Party | **SNOOP** | Snoop Dogg, Netflix NFL Xmas |
 | 80D | Words before doubling a piece | TBD | Board game term? |
 | 84D | Off | **AWAY/GONE** | |
 | 87D | One end of the pencil scale | **HARD** or **BLACK** | H=Hard, B=Black |
