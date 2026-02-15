@@ -1,0 +1,89 @@
+WORD SEARCH GRID (with dots representing blank/droplet spaces):
+
+Row 0: M O R A Y . C O N
+Row 1: U A N L . C S T I
+Row 2: H D . O A I D A .
+Row 3: . . R T W O . . R R
+Row 4: N E W P E N A E T
+Row 5: . . C I V I N . .
+Row 6: P E D B N S . C .
+Row 7: Y O H . K W C . S C
+Row 8: T R O R D K . S C
+
+Let me number columns 0-8 (or wider for row 3 which has 10 chars):
+
+Actually let me be more careful. The grid as given:
+M O R A Y · C O N
+U A N L · C S T I
+H D · O A I D A ·
+· · R T W O · · R R
+N E W P E N A E T
+· · C I V I N · ·
+P E D B N S · C ·
+Y O H · K W C · S C
+T R O R D K · S C
+
+Hmm, this is tricky. Rows have different numbers of characters.
+Row 0: M O R A Y . C O N  = 9 positions (with . at pos 5)
+Row 1: U A N L . C S T I  = 9 positions (with . at pos 4)
+Row 2: H D . O A I D A .  = 9 positions (with . at pos 2 and 8)
+Row 3: . . R T W O . . R R = 10 positions (with . at 0,1,6,7)
+Row 4: N E W P E N A E T  = 9 positions
+Row 5: . . C I V I N . .  = 9 positions (with . at 0,1,7,8)
+Row 6: P E D B N S . C .  = 9 positions (with . at 6,8)
+Row 7: Y O H . K W C . S C = 10 positions (with . at 3,7)
+Row 8: T R O R D K . S C  = 9 positions (with . at 6)
+
+This doesn't form a regular rectangle. Let me reconsider.
+
+Maybe it's a 10-column grid and some rows are shorter or have dots:
+
+Col:  0 1 2 3 4 5 6 7 8 9
+R0:   M O R A Y . C O N
+R1:   U A N L . C S T I
+R2:   H D . O A I D A .
+R3:   . . R T W O . . R R
+R4:   N E W P E N A E T
+R5:   . . C I V I N . .
+R6:   P E D B N S . C .
+R7:   Y O H . K W C . S C
+R8:   T R O R D K . S C
+
+So rows 3, 7, and 8 might have 10 columns. Let me re-examine.
+
+Actually, looking more carefully at the user's grid format:
+Row 3 and 7 have 10 entries, rows 0,1,2,4,5,6,8 have 9 entries.
+
+Wait - row 8 has: T R O R D K . S C = 9 entries
+Row 7: Y O H . K W C . S C = 10 entries
+Row 3: . . R T W O . . R R = 10 entries
+
+Hmm. Let me think about this differently. Maybe the grid is 10 columns wide and some positions are blank (represented by the · symbol). Let me try mapping to a 10x9 grid:
+
+Col:  0 1 2 3 4 5 6 7 8 9
+R0:   M O R A Y · C O N ·
+R1:   U A N L · C S T I ·
+R2:   H D · O A I D A · ·
+R3:   · · R T W O · · R R
+R4:   N E W P E N A E T ·
+R5:   · · C I V I N · · ·
+R6:   P E D B N S · C · ·
+R7:   Y O H · K W C · S C
+R8:   T R O R D K · S C ·
+
+Actually, I realize the · dots are explicitly given in the puzzle and represent water droplet markers. The grid dimensions should be consistent. Let me try 10 columns:
+
+Looking at row 3 (10 chars) and row 7 (10 chars), maybe the grid is actually 10 wide.
+But rows 0,1,2,4,5,6,8 only show 9 characters.
+
+Maybe row 5 has 9: · · C I V I N · · (but maybe there's a trailing space)
+
+Let me try a different interpretation. Perhaps some dots mark empty cells AND water droplets. In a standard word search, every cell has a letter. The dots might be positions where there ARE letters but they're marked with water droplets (for extraction), or they might truly be empty.
+
+Given that this is described as "a word search with water droplet markers," the dots likely represent water droplet markers on letters, not empty cells. But the user shows dots as separate from letters...
+
+Actually, rereading the user's message: the · symbol separates letters, and the grid has gaps. Looking at standard word search puzzles, every cell should have a letter.
+
+Let me reconsider: perhaps the · are just spaces/blanks in the grid (no letter), and these are the positions where water droplets appear in the original puzzle image. The leftover letters after finding all words would normally be read to get the answer, but in this variant, the water droplet positions indicate which letters to extract.
+
+For now, let me just work with what we have and try to find words.
