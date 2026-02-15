@@ -50,15 +50,53 @@ This puzzle is BOTH a Stage 0 puzzle (yields TOWARDS) AND connects to Bank Video
 2. The "extra" letters not part of real names → read in order → TOWARDS
 3. Colors may determine the reading order of extra letters
 
-## Known Real Places
-- COLFAX — real neighborhood/town (many US cities)
-- DOVERCOURT — Toronto neighborhood
-- ALVISO (from AALVISO) — San Jose, CA neighborhood
-- WASCANA (from WASCANY?) — Regina, Saskatchewan
-- McGREGOR (from CLOMCGREGOY?) — various locations
+## Confirmed Real Place Names (from deep research)
+| # | Plate | Real Place | Location | Extra Letter(s) | Confidence |
+|---|-------|-----------|----------|-----------------|------------|
+| 1 | GLENCA.RY | **GLENCAR** | Ireland (Sligo/Leitrim) | Y | High |
+| 2 | WASCANY | **WASCANA** | Regina, Saskatchewan, Canada | Y | High |
+| 5 | CAMOIN | **CAMOIN** (Les Camoins) | Marseille, France | TBD | Medium |
+| 11 | COLFAX | **COLFAX** | Multiple US cities (Denver, etc.) | TBD | High |
+| 13 | DOVERCOURT | **DOVERCOURT** | Toronto, ON / Essex, UK | TBD | High |
+| 14 | GROCKFGREST | **ROCK FOREST** | Sherbrooke, Quebec, Canada | G,F,G? | Medium |
+| 15 | MALIAAGLEN | **MALIA** | Crete, Greece | AGLEN | Medium |
+| 17 | AALVISO | **ALVISO** | San Jose, California | A (prepended) | High |
+| 18 | LOSTHER | **LOWTHER** (S→W sub) | Cumbria, England | S | Medium-High |
+| 20 | BINTOS | **BINTON** | Warwickshire, England | S | Medium |
+| 21 | CLOMCGREGOY | contains **McGREGOR** | Various locations | C,L,O,Y | Medium |
+
+## Partially Identified
+| # | Plate | Best Guess | Notes |
+|---|-------|-----------|-------|
+| 3 | ONTFEL | Contains FELL? | Lake District connection? |
+| 4 | WESTASKA | **WETASKIWIN** area? | Alberta, Canada; extra S? |
+| 7 | MCOLLY | **MOLLY** or **McCOLL**? | Extra C? |
+| 9 | CHALOGEN | **HALOGEN** or **CHALTEN**? | Argentina? Extra C? |
+| 10 | KLCHANON | **CHANON** or **CANON**? | Extras K,L,H? |
+
+## Unresolved Plates
+| # | Plate | Notes |
+|---|-------|-------|
+| 6 | LSIPAIZER | Possibly LAIZER (Tanzania) with extras S,I,P |
+| 8 | F.LIRSKA | Period may hide letter. POLSKA? FLORSKA? |
+| 12 | JUASDFZOYAS | Very long, many extra letters |
+| 16 | MCGLICKIAN | 10 letters, no clear place match |
+| 19 | ATCIPSCY | 8 letters, no clear place match |
+
+## Color-Based Extraction Theory (for TOWARDS)
+| Letter | Color | Plates |
+|--------|-------|--------|
+| T | Red | 1, 4, 16, 18 |
+| O | Red/Orange | 2 |
+| W | Green | 3, 10, 14 |
+| A | Green/Blue | 5 |
+| R | Blue | 6, 7, 13, 15, 17 |
+| D | Purple | 8, 12 |
+| S | Yellow | 9, 11, 20 |
 
 ## What We Still Need
-- Higher resolution image
-- Identify ALL real place names in each plate
-- Determine color → extraction order mapping
-- Find the Stage 1 location answer (linked to Bank Video Screen 2)
+- Higher resolution image from ImageShack
+- Identify remaining 5 unresolved plates (6, 8, 12, 16, 19)
+- Verify color → extraction order mapping
+- Cross-reference with Bank Video Screen 2 for Stage 1 location answer
+- Test if first letters of all place names spell something
