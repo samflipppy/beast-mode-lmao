@@ -1,2 +1,4 @@
-frames/
+# Video analyzer output - skip huge files
+**/frames/
+**/video.mp4
 *.mp4
