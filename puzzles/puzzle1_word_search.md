@@ -26,18 +26,25 @@ T R O R D K · S C
 Note: Dots (·) may represent water droplets ON letters we can't see, or empty cells.
 
 ## Clues
-1. "A cold noise?" — Possible: ACHOO, BRRR, CHATTER
-2. "A natural disaster" — Possible: TORNADO, FLOOD, TYPHOON
-3. "MrBeast went to see in Greenville, NC" — MrBeast is based in Greenville. Possible: ECU PIRATES, a show, a restaurant
-4. "Nats" (2 wds.) — Possible: NATIONAL PARK, WASHINGTON NATIONALS
-5. "A certain Midwesterner" — Possible: IOWAN, OHIOAN, HOOSIER
-6. "A child's toy (2 wds, hyph.)" — Possible: YO-YO, POP-GUN, JACK-IN-BOX
-7. "Upset" — Possible: MAD, IRATE, ANGRY, OVERTURN
-8. "An item you can buy in MrBeast's store" — Check feastables.com or shopmrbeast.com
-9. "A US landmark (2 wds.)" — Possible: MOUNT RUSHMORE, LIBERTY BELL, HOOVER DAM
-10. "A type of food" — Possible: CORN, RICE, TACO, STEW
-11. "A literary outlaw (2 wds.)" — Possible: ROBIN HOOD, ROB ROY
-12. "What you might say when you finish this!" — Possible: DONE, HOORAY, VOILA, EUREKA
+**KEY INSIGHT: All 12 answers are likely LOCATION NAMES (dual-purpose for Stage 1)**
+
+1. "A cold noise?" — **ICELAND** (ice=cold, ? = wordplay) or cold+noise location pun
+2. "A natural disaster" — **TORNADO** (Tornado, WV) or disaster-named place
+3. "MrBeast went to see in Greenville, NC" — **ECU/PIRATES** (East Carolina Univ)
+4. "Nats" (2 wds.) — **WASHINGTON** (Nationals) or 2-word place
+5. "A certain Midwesterner" — **IOWA**, **OHIO**, **INDIANA**, **KANSAS**, **DAKOTA**
+6. "A child's toy (2 wds, hyph.)" — **YO-YO** (Philippines?) or toy=location pun
+7. "Upset" — **TROY** (famously destroyed; Troy NY, ancient Troy)
+8. "An item you can buy in MrBeast's store" — **JERSEY**, **PANAMA** (hat), **CAPE**
+9. "A US landmark (2 wds.)" — **PENN STATION**, **GOLDEN GATE**, **MOUNT RUSHMORE**
+10. "A type of food" — **TURKEY**, **CHILE**, **LIMA**, **JAVA**, **GUINEA**
+11. "A literary outlaw (2 wds.)" — **ROBIN HOOD** → SHERWOOD or NOTTINGHAM
+12. "What you might say when you finish this!" — **EUREKA** (Eureka, California!)
+
+## CRITICAL: Hidden Letters Under Water Droplets
+The 17 dot positions contain letters HIDDEN UNDER water droplet markers. Without the original
+high-res image, we can't read those letters. Every cell in a word search has a letter.
+The dots are NOT empty cells — they're extraction markers ON TOP of letters.
 
 ## Extraction Method
 - Find all 12 words in the grid (8 directions)
