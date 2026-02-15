@@ -6,7 +6,7 @@ from english_words import get_english_words_set
 
 # Get English words, 3-12 chars
 all_words = set()
-for w in get_english_words_set(['lower'], beta=True):
+for w in get_english_words_set(['web2'], lower=True, alpha=True):
     w_upper = w.upper()
     if 3 <= len(w_upper) <= 12 and w_upper.isalpha():
         all_words.add(w_upper)
