@@ -93,6 +93,28 @@ Each Stage 0 puzzle ALSO yields a Stage 1 location-name answer. This is separate
 | NO PARKING sign | Street markings | ? |
 | 7-5-3-1 countdown | Pattern visible | ? |
 
+### Account Number Cipher: 5480 234 354
+Found on withdrawal slip. 12 cipher approaches tested. **Top 3 results:**
+
+| # | Approach | Result | Confidence |
+|---|----------|--------|------------|
+| 1 | **Phone: (480) 234-354?** | Strip leading 5 → AZ area code 480. Missing 10th digit. Community-corroborated. Answer = **TEMPE/MESA/SCOTTSDALE/PHOENIX** | HIGH |
+| 2 | **ZIP: 54802** | First 5 digits = valid ZIP → **EAU CLAIRE, WISCONSIN** | MEDIUM |
+| 3 | **Coords: 54.8N, 23.4E** | Near Klaipeda, Lithuania | LOW |
+
+Failed: A1Z26, T9, reverse, ASCII, base conversion, mod 26, XOR — all gibberish.
+
+### QR Code Verification: CONFIRMED (95% confidence)
+The aerial compound IS a real QR code:
+- Three finder patterns (nested squares) in TL/TR/BL corners
+- No finder in bottom-right (correct per QR spec)
+- Square data module grid (buildings=dark, sand=light)
+- Quiet zone (empty desert border)
+- NOT Data Matrix or Aztec
+- Center fortress exploits QR error correction (~30% tolerance)
+- Best frame: `sbad/scene_changes/scene_000693_t28.904s.jpg`
+- **To decode:** need clean still frame through QR scanner
+
 ### Hub 3: Red Herring Bank Video
 - Puzzles here REQUIRE content from the Super Bowl commercial to solve
 - **CRITICAL BOTTLENECK:** Each Salesforce computer lab screen maps 1:1 to a bank video clue
