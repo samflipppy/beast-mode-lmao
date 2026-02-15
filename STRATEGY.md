@@ -192,20 +192,112 @@ Each Stage 0 puzzle ALSO yields a Stage 1 location-name answer. This is separate
 
 ---
 
+## VIDEO ANALYSIS FINDINGS (Frame-by-Frame Extraction)
+
+### Video 1: Red Herring Bank (bank/) — 3,475 frames, 101 scene changes
+**Full narrative:** MrBeast visits Mrs. Maybelle at the Red Herring Bank teller counter.
+
+**Key Clue Frames Found:**
+| Timestamp | Element | Details |
+|-----------|---------|---------|
+| ~1.9s | **JAR OF PENNIES** | Glass jar of coins on couch next to kid with ice cream (Puzzle 11!) |
+| ~3.4s | **February Calendar** (upside down) | Date circled in red, blurry document being placed |
+| ~29s | **Withdrawal Slip** | RED HERRING BANK, Date: 2-5-26, Signature: MB |
+| ~29s | **Withdrawal Amount** | **$1,000,000,000.00** (one billion) |
+| ~29s | **Routing Numbers** | **650 283 9795** (confirmed phone#!) + **5480 234 354** |
+| ~29s | **2026 Calendar** (upside down) | Shows Jan, Feb, March, April, June — **JULY MISSING!** |
+| ~29s | **Circled dates** | Multiple months have dates circled in red |
+| ~44s | **MRS. MAYBELLE** | Desk nameplate clearly visible |
+| ~23s | **Parking meter** | With PARKING ENFORCEMENT officer in yellow vest |
+| ~27s | **Red herring fish logo** | On guard's tactical vest |
+| ~77s | **Colorful figurines** | Small figures on Mrs. Maybelle's desk |
+| ~83s | **Desk items** | Calendar on partition, cup, notebook, pencils, calculator |
+| ~110s | **Mrs. Maybelle counting cash** | Stacks of bills with blue bands |
+| ~136s | **Street scene** | "NO PARKING 6PM-8AM", "30 MIN PARKING LIMIT" signs |
+| ~136s | **Keith Haring mural** | Visible on building in background |
+| ~136s | **"TALK __ A PIRATE"** | Street sign/billboard visible |
+| ~142s | **Helicopter + guards** | Exterior of bank with armed response |
+| ~145s | **Black screen** | End of video |
+
+**NOTE:** No computer lab screens found in this video — it's all bank counter + exterior shots.
+
+### Video 2: Super Bowl Ad Teaser (sbad/) — 769 frames, 43 scene changes
+**All scene changes clustered at 27-29 seconds** = dramatic zoom-out reveal
+
+**Key Clue Frames Found:**
+| Timestamp | Element | Details |
+|-----------|---------|---------|
+| ~27.2s | **THE VAULT** | MrBeast standing arms-wide before massive golden vault door |
+| ~27.4s | **Vault compound** | Fortified circular structure with soldiers, tanks, red lights |
+| ~27.7s | **Aerial view** | Satellite dishes, military compound, desert setting |
+| ~28.0s | **Higher aerial** | Pentagon-like octagonal walls, tanks surrounding |
+| ~28.4s | **Full zoom out** | Buildings form a recognizable PATTERN |
+| ~28.7s | **QR CODE REVEALED** | Structures form a GIANT QR CODE in the desert! |
+| ~28.9s | **Full QR code** | Three corner markers clearly visible, vault at center |
+
+**THE VAULT COMPOUND IS A PHYSICAL QR CODE** made from buildings/containers in the desert.
+
+### Video 3: Behind the Scenes / Slack Production (behindthescenes/) — 10,188 frames, 282 scene changes
+**Long video (~7 min) showing MrBeast production with Slack message overlays.**
+
+**Key Frames:**
+| Timestamp | Element | Details |
+|-----------|---------|---------|
+| ~37s | **Race track + kangaroo** | Aerial view, race car, colored flags |
+| ~61s | **Sea lion enclosure** | "Jimmy" Slack popup, workers in orange/blue |
+| ~118s | **More production** | Text-heavy frame (blurry) |
+| ~424s | **Minefield scene** | "Jimmy: I need a minefield" Slack popup, explosions, red cars #05 and #04 |
+
+### Video 4: Salesforce Ad (salesforcead/) — 1,984 frames, 14 scene changes
+**THE PUZZLE PLATFORM REVEAL — CRITICAL INFORMATION**
+
+**Key Frames:**
+| Timestamp | Element | Details |
+|-----------|---------|---------|
+| ~9s | **Cloud lock + binary** | Salesforce security graphic, futuristic interface |
+| ~41s | **PUZZLE PLATFORM UI** | Shows actual website with puzzle submission form |
+| ~41s | **Navigation** | "HOW TO PLAY", "BEHIND THE SCENES", "QUESTIONS", "TERMS" |
+| ~41s | **Slackbot** | "How slackbot helps" → "AI Puzzle expert" |
+| ~41s | **Puzzle categories** | Sudoku, Anagrams, meta-puzzles, spot-the-difference |
+| ~41s | **Puzzle card** | Fields: Puzzle name, Answer, Notes & observations, Labels, Links |
+| ~50s | **Platform sidebar** | Tabs: Puzzle Walk, Find Answers, Your Activity |
+| ~61s | **Blurred platform** | Multiple puzzle sections visible |
+| ~73s | **SUBMISSION PAGE** | "Slack your code to Jimmy below!" |
+| ~73s | **FINAL ANSWER = 8-DIGIT CODE** | Placeholder shows **12345678** in two fields |
+| ~73s | **Prize confirmation** | "If your code is correct and you're eligible, you could win $5 million!" |
+| ~73s | **Submit button** | "Submit Final Answer" |
+| ~79s | **Mascot + coin** | Colorful app icon character |
+
+**CRITICAL: The final answer is an 8-DIGIT NUMERIC CODE submitted via the platform.**
+
+### Video 5: Slack Ad (slackad/) — 1,373 frames, 58 scene changes, 7 text frames
+**Shows Slack workspace integration with MrBeast challenge content.**
+
+**Key Frames:**
+| Timestamp | Element | Details |
+|-----------|---------|---------|
+| ~7.6s | **White flash** | Transition |
+| ~12.3s | **MrBeast on stage** | Blue-lit arena with Slack "Jimmy" popup |
+| ~19.2s | **MrBeast Slack workspace** | "MrBeast" workspace, "Catch Up - 37 unreads" |
+| ~22.3s | **Pyramids** | "Jimmy: Sleepover?" Slack popup, Egyptian pyramids |
+| ~54s | **Text frames** | Near timestamp 53-54s, high edge density (text visible) |
+
+---
+
 ## IMMEDIATE PRIORITY ACTIONS
 
 ### 🔴 HIGHEST PRIORITY (Stage 1 Focus):
-1. **Watch the Super Bowl ad frame-by-frame** — Extract EVERY visual detail
-2. **Watch the Red Herring Bank video** — Map each computer lab screen
-3. **Cross-reference**: Match ad elements to bank video screens
+1. **Decode the QR code** from Super Bowl ad (try scanning the frame)
+2. **Read the 2026 calendar circled dates** — zoom into bank video frame at ~29s
+3. **Research the withdrawal slip numbers** — 650-283-9795 is a phone number; 5480-234-354 needs decoding
 4. **Ask Slackbot** about specific ad elements: "Is [element] a puzzle?"
 5. **Try submitting location guesses** for obvious clues (LAS VEGAS, LOS ANGELES, etc.)
 
 ### 🟡 HIGH PRIORITY:
-6. **Build video frame extraction tool** — Python + OpenCV for frame-by-frame analysis
-7. **Check social media** for clues (Hint #5) — MrBeast, Salesforce, Lone Shark Games
-8. **Join Discord** (discord.gg/beastforce67) for community intel on Stage 1
-9. **Solve remaining Stage 0 extraction details** — to get Stage 1 location answers from each
+6. **Check social media** for clues (Hint #5) — MrBeast, Salesforce, Lone Shark Games
+7. **Join Discord** (discord.gg/beastforce67) for community intel on Stage 1
+8. **Solve remaining Stage 0 extraction details** — to get Stage 1 location answers from each
+9. **Analyze the Salesforce platform UI** from salesforcead frames for puzzle structure clues
 
 ### 🟢 MEDIUM PRIORITY:
 10. **Analyze behind-the-scenes photos** for undecoded cipher elements
