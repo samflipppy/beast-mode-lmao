@@ -15,12 +15,19 @@ STAGE 0 (Entry Point) ✅ SOLVED BY COMMUNITY
   └─ META-CLUE: "EVERY CHALLENGE LEADS TOWARDS LOCATION NAME SOMEWHERE AROUND WORLD"
   └─ PURPOSE: Tells you ALL Stage 1 answers are LOCATION/PLACE NAMES
 
-STAGE 1 (50 Puzzles) ← WE ARE HERE
-  ├─ Hub 1: Same 9 playlist puzzles (dual-purpose, also yield Stage 1 location answers)
-  ├─ Hub 2: Super Bowl ad "The Vault" (~3,476 frames)
-  ├─ Hub 3: Red Herring Bank video (requires ad content)
-  ├─ Gifts: Golden boxes to friends → answers combine
-  └─ ALL 50 answers are LOCATION NAMES
+STAGE 1 (50 Puzzles) ← WE ARE HERE  [ALL answers = LOCATION NAMES]
+  ├─ 1 puzzle that SETS UP the playlist (unknown — need to find!)
+  ├─ 12 puzzles IN Sunday's commercial (each weird thing Jimmy passes)
+  ├─ 12 puzzles IN the bank video (each paired 1:1 with a commercial screen)
+  ├─ 10 gifts given to friends (golden boxes → location answers)
+  ├─ 1 puzzle that UNITES the 10 gifts (all gift answers combine)
+  ├─ 2 YouTube shorts (NOT gift-related)
+  ├─ 9 puzzles on site / Salesforce social posts
+  ├─ 3 puzzles on Lone Shark Games socials
+  └─ IMPORTANT: Stage 0 puzzles do NOT give locations! (Hint #6: "do not match")
+
+  ⚠️ The "12 Salesforce computer lab screens" are IN THE COMMERCIAL.
+     Each screen pairs with 1 bank video clue. Must find all 12 screens.
 
 STAGE 2 (Crossword)
   └─ "I WROTE A PUZZLE FOR JIMMY!" crossword at /behindthescenes/
@@ -63,10 +70,16 @@ STAGE 3+ (Unknown)
 
 ## 🔄 STAGE 1 — CURRENT FOCUS (50 Location Puzzles)
 
-### Hub 1: The 9 Playlist Puzzles (Dual Purpose)
-Each Stage 0 puzzle ALSO yields a Stage 1 location-name answer. This is separate from the meta-clue word.
-- **No confirmed Stage 1 location answers publicly reported**
-- The puzzles serve dual purpose: one answer feeds meta-clue, another answer is a location name
+### ⚠️ CORRECTION: The 9 Playlist Puzzles are Stage 0 ONLY
+Per Hint #6: "These answers do not match the others. IYKYK."
+The 9 playlist puzzles yield ONLY the meta-clue words. They do NOT give location answers.
+Stop trying to extract locations from them — focus on the 50 puzzles below.
+
+### The "1 Puzzle That Sets Up the Playlist" (UNKNOWN)
+- Hint #6 lists this separately from the 9 Stage 0 puzzles
+- This IS a Stage 1 location puzzle
+- Could be: a meta-puzzle across all 9, something in the playlist description, or a separate hidden puzzle
+- **PRIORITY: Ask Slackbot what this is**
 
 ### Hub 2: Super Bowl Commercial "The Vault"
 ~3,476 frames of clues. Key identified elements:
@@ -365,6 +378,19 @@ computer screen mapping is where everyone is stuck.
 5. "I have the 9-word meta-clue. What do I do next? Do I need all 50 location answers before Stage 2 opens?"
 6. "For Stage 1, are the 9 playlist puzzles the same puzzles that give the meta-clue words, or separate puzzles?"
 7. "Do I submit individual location answers somewhere, or only the final vault code?"
+
+---
+
+## OFFICIAL HINTS SUMMARY (Feb 9-14)
+
+| # | Date | Key Takeaways |
+|---|------|---------------|
+| 1 | Feb 9 | Everything Jimmy passes in ad = clue. Bank needs ad content. 9-word clue = 5,9,5,7,8,4,9,6,5. Direct path exists. |
+| 2 | Feb 10 | Bank screens tied 1:1 to commercial lab screens. Each used once. Crossword = Stage 2 key. Clues fill in with progress. |
+| 3 | Feb 11 | All answers = same type (locations). Gifts combine into another answer. 50 puzzles + 1 crossword = 51. |
+| 4 | Feb 12 | Slackbot live. Puzzle Cards = key. BeastBot gives specific hints per card. |
+| 5 | Feb 13 | Check social pages of MrBeast, Salesforce, Lone Shark Games for clues. Create cards for everything you've solved. |
+| 6 | Feb 14 | ALL Stage 1 clues are out. Full inventory: 1+12+12+10+1+2+9+3=50. Stage 0 answers "do not match." Cards = key to what happens next. |
 
 ---
 
